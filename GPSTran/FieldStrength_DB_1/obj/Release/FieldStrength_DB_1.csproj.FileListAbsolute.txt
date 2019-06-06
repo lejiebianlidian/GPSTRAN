@@ -1,0 +1,9 @@
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\bin\Release\FieldStrength_DB_1.dll
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\bin\Release\FieldStrength_DB_1.pdb
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\bin\Release\Common.dll
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\bin\Release\log4net.dll
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\bin\Release\Oracle.ManagedDataAccess.dll
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\bin\Release\Common.pdb
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\obj\Release\FieldStrength_DB_1.dll
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\obj\Release\FieldStrength_DB_1.pdb
+D:\eastcom\Gis\Dagdb_Tran\GPSTran\GPSTran\GPSTran\FieldStrength_DB_1\obj\Release\FieldStrength_DB_1.csprojResolveAssemblyReference.cache
